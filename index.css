@@ -1,0 +1,20 @@
+#navbar {
+    display: flex;
+    justify-content: space-between;
+   
+  }
+
+  #add-money {
+    display: flex;
+    height: 400px;
+    width: 20%;
+    margin: auto;
+    margin-top: 50px;
+    gap: 20px;
+    flex-direction: column;
+    
+  }
+
+  #amount {
+    height: 25px;
+  }

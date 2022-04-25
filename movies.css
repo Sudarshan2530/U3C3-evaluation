@@ -1,0 +1,24 @@
+#movies {
+    
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    border-top: none;
+    overflow: scroll;
+    gap: 50px;
+   
+}
+
+#search{
+  height: 35px;
+  width: 500px;
+  margin-left: 500px;
+}
+
+#search_bar{
+  margin: 20px;
+  align-items: center;
+  justify-self: center;
+}
+#amount {
+    height: 25px;
+  }
